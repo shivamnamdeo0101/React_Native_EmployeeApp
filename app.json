@@ -7,6 +7,14 @@
       "android",
       "web"
     ],
+    "android": {
+      "package": "com.sarathi.thesarathi",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.sarathi.thesarathi",
+      "buildNumber": "1.0.0"
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,8 +29,8 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    }
+  
   }
 }
+
+
